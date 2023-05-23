@@ -1,13 +1,3 @@
-# PlantDiseaseDetector
-## This is a trial for now
-### This is me trying different markdown elements
-** is this the bold text?**
-[Guess what this is](https://desktop.github.com/)
-|Table | Description |
-| ----------- | ---------- |
-| This is supposed to be header | And then the title |
-|Now the para | and the text |
+# PlantDiseaseDetectorSystem
+I have created this simple project with torch library.
 
-I need to highlight these <mark>very important words</mark>.
-
-so the propose changes are

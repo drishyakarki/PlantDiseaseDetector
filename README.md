@@ -8,4 +8,4 @@
 | This is supposed to be header | And then the title |
 |Now the para | and the text |
 
-I need to highlight these ==very important words==.
+I need to highlight these <mark>very important words</mark>.
